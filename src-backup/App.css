@@ -1,6 +1,6 @@
+
 .App {
   text-align: center;
-  margin: 20px;
 }
 
 .App-logo {
@@ -38,8 +38,12 @@
   box-shadow: #333 0px 1px 5px;
 }
 .img-wrapper img {
-  width: 100px;
-  margin-top: -10px;;
+  width: 100%;
+  margin: -15px;;
+}
+.btn-wrapper.item {
+  width: 149px;
+  float: right;
 }
 .cart-wrapper{
   height: 100px;
